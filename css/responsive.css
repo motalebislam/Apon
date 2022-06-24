@@ -1,0 +1,136 @@
+@media (max-width: 575.98px) {
+    #nav_main img {
+        width: 70px;
+      }
+      #nav_main .navbar-toggler-icon{
+        color: #fff;
+        text-align: center;
+      }
+
+      #nav_main ul li a {
+          padding: 3px;
+          background: #353535;
+
+      }
+      #nav_main .btn{
+          text-align: left;
+      }
+      /* banner */
+      #banner_part{
+        padding-top: 150px;
+      }
+      #banner_part .text{
+        text-align: left;
+    }
+    #banner_part .text h1{
+        font-size: 40px;
+    }
+    #banner_part .text h2{
+        padding-bottom: 35px;
+        font-size: 20px;
+    }
+    #banner_part .text h2::before{
+       
+        left: 0;
+    }
+    #banner_part .text p{
+        margin-left: 0;
+        padding-bottom: 30px;
+      
+    }
+
+    #banner_part .text a{
+    
+        font-size: 14px;
+        padding: 3px 5px 3px 35px;
+        text-align: left;
+    }
+    #banner_part .text a span{
+        font-size: 14px;
+    }
+    #banner_part .text .btn_icon{
+        height: 23px;
+       
+        left: 10px;
+    }
+
+    /* about */
+    #about_part .item .about-text{
+        padding-top: 20px;
+
+       
+    }
+    #about_part .item .about-text h1{
+        font-size: 18px;
+    }
+    #about_part .item .about-text .rocet{
+        height: 15px;
+        padding-top: 5px;
+        padding-bottom: 15px;
+    }
+    #about_part .item .about-text h1::after{
+        top: 42px;
+        left: 168px;
+    }
+    #about_part .item .about-text h1::before{
+        top: 42px;
+        right: 168px
+    }
+    #about_part .item .about-text .text2{
+        margin-bottom: 35px;
+    }
+    #about_part .item .image{
+        padding-top: 10px;
+        padding-bottom: 9px;
+    }
+    #about_part .item .image img{
+        width: 100%;
+    }
+    /* feature part */
+    #feature_part{
+        padding-top: 30px;
+        padding-bottom: 30px;
+    }
+
+    #feature_part .feature-text h1{
+        padding-bottom: 5px;
+        font-size: 18px;
+        
+    }
+    
+#feature_part .feature-text  h1::before{
+    top: 43px;
+    right: 100px;
+}
+#feature_part .feature-text h1::after{
+    top: 43px;
+    left: 100px;
+}
+#feature_part .feature-text .fea-btn{
+    padding-bottom: 5px;
+    height: 15px;
+}
+
+#feature_part  .navs p{
+    padding-top: 5px;
+    
+}
+#feature_part .tabs .pic img{
+    margin-top: 30px;
+    }
+
+    #feature_part .navs button p::after{
+        
+    width: 200px;
+        }
+        #feature_part .tabs .text h1{
+            text-align: center;
+            padding-top: 30px;
+        }
+    #feature_part .tabs .text{
+            text-align: center;
+        }
+        #feature_part .tabs .text .para1{
+            padding-bottom: 15px;
+            }
+}
